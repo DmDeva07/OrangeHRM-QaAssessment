@@ -1,8 +1,3 @@
-Absolutely, Deva 🔥
-Here’s your **perfectly tailored, polished, and recruiter-ready GitHub README** — formatted cleanly for markdown, with consistent tone, spacing, and a professional finish while keeping your personal credits and assessment context.
-
----
-
 # 🎓 OrangeHRM QA Automation Framework — *User Management Activities (Selenium + Java)*
 
 ### 👤 Author : **Mahadevan D (QA Test Engineer)**
@@ -197,6 +192,3 @@ This framework demonstrates my ability to **design, implement, and execute** a s
 It emphasizes **maintainability**, **data-driven testing**, and **detailed reporting**, aligning with industry-level QA automation standards.
 
 ---
-
-Would you like me to add a **section showing sample Extent Report output and folder structure screenshot placeholders** for GitHub visual appeal?
-That can make your project look even more polished.
